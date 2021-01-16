@@ -98,10 +98,15 @@ How to use?
 2. python Interpret_fullgradient.py (you get the saliency maps of models)
 
 <p align="center">
-  <img width="800" src="" alt="Material Bread logo">
+  <img width="800" src="https://github.com/FengleiFan/SparseShortcutTopology/blob/main/interpretability%20experiment/saliency_map.png" alt="Material Bread logo">
 </p>
 
 3. python Plot_segmentation_map.py (you get the segmentation of saliency maps of models)
+
+<p align="center">
+  <img width="800" src="https://github.com/FengleiFan/SparseShortcutTopology/blob/main/interpretability%20experiment/segmentation_map.png" alt="Material Bread logo">
+</p>
+
 
 <!-- CONTACT -->
 ## Contact
