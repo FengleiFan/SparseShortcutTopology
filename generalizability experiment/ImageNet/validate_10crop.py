@@ -58,7 +58,7 @@ parser.add_argument('--wd', '--weight-decay', default=1e-4, type=float,
                     dest='weight_decay')
 parser.add_argument('-p', '--print-freq', default=10, type=int,
                     metavar='N', help='print frequency (default: 10)')
-parser.add_argument('--resume', default='/home/fenglei/small_val1/model_best.pth.tar', type=str, metavar='PATH',
+parser.add_argument('--resume', default='/home/fenglei/small/model_best.pth.tar', type=str, metavar='PATH',
                     help='path to latest checkpoint (default: none)')
 parser.add_argument('-e', '--evaluate', dest='evaluate', action='store_true',
                     help='evaluate model on validation set')
