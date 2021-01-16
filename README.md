@@ -34,7 +34,12 @@ We compare the proposed topology to the residual topology in the [neural tangent
 </p>
 
 * Expressibility experiment
-** CIFAR100
+
+**CIFAR100**
+
+**TinyImageNet**
+
+**ImageNet**
 
 ### Prerequisites
 
