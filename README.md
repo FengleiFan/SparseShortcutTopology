@@ -22,7 +22,7 @@ We compare the proposed topology to the residual topology in the [neural tangent
 </p>
 
 <p align="center">
-  Figure 1. The structure of the proposed model and ResNet utilized in the comparison
+  Figure 1. The structure of the proposed model(a) and ResNet(b) utilized in the comparison
 </p>
 
 <p align="center">
@@ -36,6 +36,13 @@ We compare the proposed topology to the residual topology in the [neural tangent
 * **Generalizability experiment**
 
 **CIFAR100**
+
+example usage
+
+1. put three files 'optim.py', 's3model.py', 'train_S3Net.py' in the same directory
+
+2. execute: python train_S3Net.py
+
 
 **TinyImageNet**
 
