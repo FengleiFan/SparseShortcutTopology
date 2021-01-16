@@ -67,6 +67,9 @@ How to use?
 
 3. execute: python Tiny_xxx.py
 
+<p align="center">
+  <img width="800" src="https://github.com/FengleiFan/SparseShortcutTopology/blob/main/generalizability%20experiment/TinyImageNet/results.png" alt="Material Bread logo">
+</p>
 
 
 **ImageNet**
