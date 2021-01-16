@@ -4,6 +4,7 @@
 This repository shows you the code regarding the paper [On  a  Sparse  Shortcut  Topology  of  Artificial  Neural  Networks](https://arxiv.org/abs/1811.09003), whose main contribution is to present a promising sparse shortcut topology for deep learning. Besides the theoretical analyses, we conduct comprehensive experiments including prediction and classification experiments to show the superiority of the proposed topology. 
 
 
+
 ### Struture
 
 * Expressibility experiments
@@ -37,11 +38,12 @@ We compare the proposed topology to the residual topology in the [neural tangent
 
 **CIFAR100**
 
-example usage
+usage
 
 1. put three files 'optim.py', 's3model.py', 'train_S3Net.py' in the same directory
 
 2. execute: python train_S3Net.py
+
 
 
 **TinyImageNet**
