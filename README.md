@@ -1,15 +1,14 @@
 <!-- ABOUT THE PROJECT -->
 ## SparseShortcutTopology
 
-This repository shows you the code regarding the paper [On  a  Sparse  Shortcut  Topology  of  Artificial  Neural  Networks](https://arxiv.org/abs/1811.09003), whose main contribution is to present a promising sparse shortcut topology for deep learning. Besides the theoretical analyses, we conduct comprehensive experiments to show the superiority of the proposed topology. 
+This repository shows you the code regarding the paper [On  a  Sparse  Shortcut  Topology  of  Artificial  Neural  Networks](https://arxiv.org/abs/1811.09003), whose main contribution is to present a promising sparse shortcut topology for deep learning. Besides the theoretical analyses, we conduct comprehensive experiments including prediction and classification experiments to show the superiority of the proposed topology. 
 
 
-### Built With
+### Struture
 
-* []()
-* []()
-* []()
-
+* [](Expressibility)
+* [](Generalizability)
+* [](Interpretability)
 
 
 <!-- GETTING STARTED -->
