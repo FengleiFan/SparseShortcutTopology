@@ -20,6 +20,7 @@ We compare the proposed topology to the residual topology in the [neural tangent
 ![Figure 1](https://github.com/FengleiFan/SparseShortcutTopology/blob/main/expressibility%20experiment/structure.png)
 <center>Figure 1. The structure of the proposed model and ResNet utilized in the comparison.</center>
 
+
 ![Figure 2](https://github.com/FengleiFan/SparseShortcutTopology/blob/main/expressibility%20experiment/NTK_results.png)
 <center>Figure 2. The comparative results.</center>
 
