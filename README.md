@@ -82,6 +82,8 @@ How to use?
 2. for 10-crop validation, execute 'validate_10crop.py'. The obtained model is stored in [Google Drive](https://drive.google.com/drive/folders/1mqJ3nG81vM8Nc_x2sl_dyJY0Gu3yVtw5). 
 
 
+
+
 * **Interpretability experiment**
 
 Shortcuts  can  facilitatetraining by alleviating gradient explosion and vanishing. The mechanism  is  that  shortcuts  provide  additional  paths  thatenable  a  more  accurate  and  easier  gradient  propagation  asthey avoid multiplying gradients many times. We argue thatsuch  a  mechanism  should  also  be  helpful  to  improve  thequality of saliency maps that are based on gradients. What’smore,  in  the  proposed  topology,  shortcuts  directly  connectthe final layer with all previous layers, which is even more
@@ -91,11 +93,13 @@ We apply [FullGrad](https://github.com/idiap/fullgrad-saliency) to compare the s
 
 How to use?
 
-1. Download the trained model from [Google Drive](https://drive.google.com/drive/folders/1mqJ3nG81vM8Nc_x2sl_dyJY0Gu3yVtw5).
+1. Download the trained model from 'large' in [Google Drive](https://drive.google.com/drive/folders/1mqJ3nG81vM8Nc_x2sl_dyJY0Gu3yVtw5).
 
 2. python Interpret_fullgradient.py (you get the saliency maps of models)
 
-
+<p align="center">
+  <img width="800" src="" alt="Material Bread logo">
+</p>
 
 3. python Plot_segmentation_map.py (you get the segmentation of saliency maps of models)
 
