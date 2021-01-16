@@ -73,6 +73,7 @@ How to use?
 
 
 **ImageNet**
+
 In this part, we compare our model with other state-of-the-art models in the small size regime and regular size regime.
 
 How to use?
