@@ -33,7 +33,7 @@ We compare the proposed topology to the residual topology in the [neural tangent
   Figure 2. The comparative results
 </p>
 
-* Expressibility experiment
+* Generalizability experiment
 
 **CIFAR100**
 
@@ -41,22 +41,12 @@ We compare the proposed topology to the residual topology in the [neural tangent
 
 **ImageNet**
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 
 
 <!-- CONTACT -->
 ## Contact
 
 email: hitfanfenglei@gmail.com
-
-
 
 
 
