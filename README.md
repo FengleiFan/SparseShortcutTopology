@@ -45,7 +45,7 @@ We compare the proposed topology to the residual topology in the [neural tangent
 
 **CIFAR100**
 
-usage
+How to use?
 
 1. put three files 'optim.py', 's3model.py', 'train_S3Net.py' in the same directory
 
@@ -55,11 +55,19 @@ usage
   <img width="800" src="https://github.com/FengleiFan/SparseShortcutTopology/blob/main/generalizability%20experiment/cifar100/results.png" alt="Material Bread logo">
 </p>
 
-<p align="center">
-  Figure 4. The results on CIFAR100
-</p>
-
 **TinyImageNet**
+
+In this directory, we independently implemented several advanced models on TinyImageNet dataset. All the models are obtained from their official implementation.
+
+How to use?
+
+1. wget http://cs231n.stanford.edu/tiny-imagenet-200.zip and unzip 'tiny-imagenet-200.zip' to get the data.  
+
+2. replace the data directory to your local directory in the "Tiny_xxx.py" (xxx referes to a model being implemented)
+
+3. execute: python Tiny_xxx.py
+
+
 
 **ImageNet**
 
