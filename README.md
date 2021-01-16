@@ -12,9 +12,11 @@ This repository shows you the code regarding the paper [On  a  Sparse  Shortcut 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Code Illustration
 
-To get a local copy up and running follow these simple steps.
+* Expressibility experiments
+
+For the code "topology_NTK_comparison.ipynb", you may want to open it through Google Colab, through which you do not need to configure the environment for JAX. 
 
 ### Prerequisites
 
@@ -114,4 +116,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 Please download and unzip the Tiny-ImageNet dataset from https://github.com/rmccorm4/Tiny-Imagenet-200, and then put my code in the same directory with the data. 
 This code is established based on DenseNet implementation. 
 
-For the code "topology_NTK_comparison.ipynb", you may want to open it through Google Colab, through which you do not need to configure the environment for JAX. 
+
