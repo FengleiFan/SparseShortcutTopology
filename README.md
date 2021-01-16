@@ -51,7 +51,13 @@ usage
 
 2. execute: python train_S3Net.py
 
+<p align="center">
+  <img width="800" src="" alt="Material Bread logo">
+</p>
 
+<p align="center">
+  Figure 4. The results on CIFAR100
+</p>
 
 **TinyImageNet**
 
