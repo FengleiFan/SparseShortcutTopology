@@ -6,9 +6,9 @@ This repository shows you the code regarding the paper [On  a  Sparse  Shortcut 
 
 ### Struture
 
-* [Expressibility](Expressibility)
-* [Generalizability](Generalizability)
-* [Interpretability](Interpretability)
+* Expressibility
+* Generalizability
+* Interpretability
 
 
 <!-- GETTING STARTED -->
