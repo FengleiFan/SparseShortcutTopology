@@ -81,6 +81,9 @@ How to use?
 
 2. for 10-crop validation, execute 'validate_10crop.py'. The obtained model is stored in [Google Drive](https://drive.google.com/drive/folders/1mqJ3nG81vM8Nc_x2sl_dyJY0Gu3yVtw5). 
 
+<p align="center">
+  <img width="800" src="https://github.com/FengleiFan/SparseShortcutTopology/blob/main/generalizability%20experiment/ImageNet/results.png" alt="Material Bread logo">
+</p>
 
 
 
@@ -111,7 +114,7 @@ How to use?
 <!-- CONTACT -->
 ## Contact
 
-email: hitfanfenglei@gmail.com
+Email: hitfanfenglei@gmail.com
 
 
 
