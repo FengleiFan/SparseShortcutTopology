@@ -33,7 +33,8 @@ We compare the proposed topology to the residual topology in the [neural tangent
   Figure 2. The comparative results
 </p>
 
-
+* Expressibility experiment
+** CIFAR100
 
 ### Prerequisites
 
@@ -42,17 +43,6 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
 
 
 
