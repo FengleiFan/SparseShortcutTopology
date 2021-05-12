@@ -20,7 +20,7 @@ import torchvision.models as models
 
 import numpy as np
 
-from S3Net import s3net_new
+from S3Net import s3net_large
 import matplotlib.pyplot as plt
 plt.rcParams["font.family"] = "Times New Roman"
 import matplotlib.image as mpimg
